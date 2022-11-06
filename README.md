@@ -13,3 +13,8 @@ DIV2K dataset has the following structure:
 ## Training History
 ![plot](https://user-images.githubusercontent.com/85792473/200181943-4a9ffde0-053c-4d47-b853-2ce3bd243e43.png)
 
+
+## Sample Output
+input-noisy-output
+![input-noisy-output](https://user-images.githubusercontent.com/85792473/200181970-bb581bf0-affb-4b78-864c-33b70b4e712e.png)
+
