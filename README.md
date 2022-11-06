@@ -15,6 +15,7 @@ DIV2K dataset has the following structure:
 
 
 ## Sample Output
-input-noisy-output
+### input-noisy-output
+
 ![input-noisy-output](https://user-images.githubusercontent.com/85792473/200181970-bb581bf0-affb-4b78-864c-33b70b4e712e.png)
 
