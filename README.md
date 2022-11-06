@@ -9,3 +9,7 @@ The model was trained using **DIV2K dataset**
 DIV2K dataset has the following structure:
 
 1000 2K resolution images divided into: 800 images for training, 100 images for validation, 100 images for testing
+
+## Training History
+![plot](https://user-images.githubusercontent.com/85792473/200181943-4a9ffde0-053c-4d47-b853-2ce3bd243e43.png)
+
